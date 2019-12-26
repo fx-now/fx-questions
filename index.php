@@ -6,7 +6,7 @@ include("inc/define.php");
 include("inc/odin.php");
 
 //conecta
-mysql_connect("localhost","****","****") or die(mysql_error());
+mysql_connect("****","****","****") or die(mysql_error());
 mysql_select_db("****") or die(mysql_error());
 
 //verifica qual arquivo está sendo acessado

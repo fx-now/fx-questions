@@ -10,10 +10,10 @@ define("DB_NAME","****");
 define("DIR","app/");
 
 # tema padrao
-define("TEMA","gentelella");
+define("TEMA","adminmart");
 
 # tags
-define("TAG_TITLE","WilTav");
+define("TAG_TITLE","Projeto Fiscal");
 
 # outras definições
-define("NOME_SISTEMA","WilTav");
+define("NOME_SISTEMA","Projeto Fiscal");
